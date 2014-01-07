@@ -1,4 +1,13 @@
+# Artifacts
+*.class
+*.jar
+
+# IDE Data
 *.iml
 .idea
+target/
 .project
 .classpath
+
+# OS Junk
+.DS_Store
